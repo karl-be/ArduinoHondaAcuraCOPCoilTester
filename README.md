@@ -1,4 +1,4 @@
-##Arduino Based PWM Control for 3 Wire or 4 Wire COP Coil Triggering And Testing
+## Arduino Based PWM Control for 3 Wire or 4 Wire COP Coil Triggering And Testing
 
 Useful for triggering and testing 3 or 4 wire honda COP triggering spark plugs or any low current 'trigger' based coil.
 
